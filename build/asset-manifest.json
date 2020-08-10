@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.667fad90.chunk.css",
+    "main.js": "/build/static/js/main.6b219edc.chunk.js",
+    "main.js.map": "/build/static/js/main.6b219edc.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.babb2ca4.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.babb2ca4.js.map",
+    "static/css/2.9c8c8187.chunk.css": "/build/static/css/2.9c8c8187.chunk.css",
+    "static/js/2.4e6ac25b.chunk.js": "/build/static/js/2.4e6ac25b.chunk.js",
+    "static/js/2.4e6ac25b.chunk.js.map": "/build/static/js/2.4e6ac25b.chunk.js.map",
+    "index.html": "/build/index.html",
+    "precache-manifest.74fcd12b89bb34da6dfdb0b1cdd36704.js": "/build/precache-manifest.74fcd12b89bb34da6dfdb0b1cdd36704.js",
+    "service-worker.js": "/build/service-worker.js",
+    "static/css/2.9c8c8187.chunk.css.map": "/build/static/css/2.9c8c8187.chunk.css.map",
+    "static/css/main.667fad90.chunk.css.map": "/build/static/css/main.667fad90.chunk.css.map",
+    "static/js/2.4e6ac25b.chunk.js.LICENSE.txt": "/build/static/js/2.4e6ac25b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/build/static/media/bg-mobile-fallback.2ba164ff.jpg",
+    "static/media/bg.mp4": "/build/static/media/bg.6e3daaaa.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.babb2ca4.js",
+    "static/css/2.9c8c8187.chunk.css",
+    "static/js/2.4e6ac25b.chunk.js",
+    "static/css/main.667fad90.chunk.css",
+    "static/js/main.6b219edc.chunk.js"
+  ]
+}
