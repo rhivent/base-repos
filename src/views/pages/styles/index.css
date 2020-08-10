@@ -6,7 +6,6 @@
  html {
   height: 100vh;
 }
-@import "~antd/dist/antd.css";
 body {
   height: 100vh;
   min-height: 35rem;
@@ -39,7 +38,7 @@ video {
 
 @media (pointer:coarse) and (hover:none) {
   body {
-    background: url(./vendor/media/image/bg-mobile-fallback.jpg) #002e66 no-repeat center center scroll;
+    background: url(../../../vendor/media/image/bg-mobile-fallback.jpg) #002e66 no-repeat center center scroll;
     background-size: cover;
   }
   body video {
