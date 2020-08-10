@@ -1,4 +1,6 @@
+export const baseURL = '/base-repos';
 export default {
-  base: '/base-repos',
+  base: baseURL,
+  pagetest: `${baseURL}/page1`,
   notfound: '/not-found',
 };
