@@ -1,4 +1,4 @@
 export default {
-  base: '/',
+  base: '/base-repos',
   notfound: '/not-found',
 };
